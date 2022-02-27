@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with understanding DevOps
 - 💬 Ask me about anime (I'm such a weeb)
 - 📫 How to reach me: jotok15@my.yorku.ca (email), johan_otoka (twitter)
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Octopuses have 3 hearts 🐙
 
